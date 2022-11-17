@@ -27,7 +27,6 @@ int check_max(const binary_tree_t *tree)
 	}
 	return (tmp1 && tmp2);
 }
-
 /**
  * binary_tree_is_heap - checks if a binary tree is heap
  * @tree: pointer to the node
